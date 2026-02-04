@@ -179,6 +179,6 @@ Ahí encontrarás toda la documentación interactiva de la API.
 ## 🧵 Autor
 
 
-Desarrollado por[Miguel Angel Vera](https://github.com/MAVGDev)
+Desarrollado por [Miguel Angel Vera](https://github.com/MAVGDev)
 
 
