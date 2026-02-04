@@ -173,4 +173,4 @@ Ahí encontrarás toda la documentación interactiva de la API.
 
 ## 🧵 Autor
 
-Desarrollado por [Florencia](https://github.com/tuusuario)
+Desarrollado por [Miguel Angel Vera](https://github.com/MAVGDev)
